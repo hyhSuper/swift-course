@@ -4,5 +4,15 @@
         <page name='Link'/>
         <page name='Sort'/>
         <page name='Tencent'/>
+        <page name='验证ip地址是否合法'/>
+        <page name='两数之和'/>
+        <page name='IP地址无效化'/>
+        <page name='字符串反转'/>
+        <page name='反转单词顺序'/>
+        <page name='验证回文字符串'/>
+        <page name='回文数'/>
+        <page name='最后一个单词的长度 '/>
+        <page name='替换空格'/>
+        <page name='左旋转字符串'/>
     </pages>
 </playground>
