@@ -17,9 +17,8 @@ import Foundation
 
 class Solution {
     static func reverseLeftWords(_ s: String, _ n: Int) -> String {
+        let d =  s.index(s.startIndex, offsetBy: n-1)
         
-//        s.substring(from: n)
-       let d =  s.index(s.startIndex, offsetBy: n-1)
         return ""
     }
 }
