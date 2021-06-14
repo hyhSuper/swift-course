@@ -16,13 +16,11 @@ class Solution {
     static func strToInt(_ str: String) -> Int {
         // 1、循环遍历字符串，
         let startIndex = str.index(str.startIndex, offsetBy: 1)
-
-
         for i  in 0..<str.count {
-            let char = str[i]
-            if String(char) ==  {
-                <#code#>
-            }
+//            let char = str[i]
+//            if String(char) ==  {
+//                <#code#>
+//            }
             
         }
         
